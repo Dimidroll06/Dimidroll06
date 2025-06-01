@@ -52,7 +52,6 @@ I'm actively learning **Java** and **Go (Golang)** for building microservices, w
 <div>
   <img title="NodeJS"     height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img title="Express.JS" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
-  <img title="Koa.JS"     height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon @latest/icons/koa/koa-original.svg"/>
   <img title="Sequelize"  height="50" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"/>
   <img title="Gulp"       height="50" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg"/>
   <img title="Grunt"      height="50" src="https://github.com/devicons/devicon/blob/master/icons/grunt/grunt-plain.svg"/>
