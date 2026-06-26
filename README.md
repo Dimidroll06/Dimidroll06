@@ -20,8 +20,7 @@
 
 ---
 
-<h1>Hello World! 👋</h1>
+<h1>About</h1>
 
-### 👨‍💻 About me:
-Hi, I'm a student from Russia, currently studying to become a Software Engineer.  
-I'm actively learning **Go (Golang)** for building microservices, while also working with **С** in system/embeded development.
+I'm a student from Russia, currently studying to become a Software Engineer.  
+I'm actively learning **C**, while also working with **x86-64/Aarch64 ASM** in system/embeded development.
