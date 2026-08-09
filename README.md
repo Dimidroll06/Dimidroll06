@@ -1,7 +1,7 @@
 ---
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3cwaGNjYmZsa2g2ODYwbmo3NmV3d2ZsN3MzdnFlZzRpc2l2MjRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CyeJcs9X94xBS/giphy.gif" width="480"/>
+  <img src="https://static2.klipy.com/ii/84b4c0b02782dda9051003f9e36484ec/7b/e6/pYTvwLYI.webp"/>
   <br>
   <a href="https://t.me/NuclearPotato">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
